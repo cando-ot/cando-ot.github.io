@@ -2,30 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on CanDo OT</title>
-    <link>http://test.github.io/post/</link>
+    <link>http://www.cando-ot.com/post/</link>
     <description>Recent content in Posts on CanDo OT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Mon, 25 Jan 2016 09:05:55 +0000</lastBuildDate>
-    <atom:link href="http://test.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2016 20:38:32 +0000</lastBuildDate>
+    <atom:link href="http://www.cando-ot.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello</title>
+      <link>http://www.cando-ot.com/post/hello/</link>
+      <pubDate>Mon, 25 Jan 2016 20:38:32 +0000</pubDate>
+      
+      <guid>http://www.cando-ot.com/post/hello/</guid>
+      <description>&lt;p&gt;some stuff&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>what we do</title>
-      <link>http://test.github.io/post/what-we-do/</link>
+      <link>http://www.cando-ot.com/post/what-we-do/</link>
       <pubDate>Mon, 25 Jan 2016 09:05:55 +0000</pubDate>
       
-      <guid>http://test.github.io/post/what-we-do/</guid>
+      <guid>http://www.cando-ot.com/post/what-we-do/</guid>
       <description>&lt;p&gt;What we do blah&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>who are we</title>
-      <link>http://test.github.io/post/who-are-we/</link>
+      <link>http://www.cando-ot.com/post/who-are-we/</link>
       <pubDate>Mon, 25 Jan 2016 09:05:47 +0000</pubDate>
       
-      <guid>http://test.github.io/post/who-are-we/</guid>
+      <guid>http://www.cando-ot.com/post/who-are-we/</guid>
       <description>&lt;p&gt;Whjo we are blah&lt;/p&gt;
 </description>
     </item>

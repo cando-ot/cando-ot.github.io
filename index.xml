@@ -7,8 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Sun, 24 Jan 2016 20:38:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jan 2016 20:38:32 +0000</lastBuildDate>
     <atom:link href="http://www.cando-ot.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello</title>
+      <link>http://www.cando-ot.com/post/hello/</link>
+      <pubDate>Mon, 25 Jan 2016 20:38:32 +0000</pubDate>
+      
+      <guid>http://www.cando-ot.com/post/hello/</guid>
+      <description>&lt;p&gt;some stuff&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>what we do</title>
+      <link>http://www.cando-ot.com/post/what-we-do/</link>
+      <pubDate>Mon, 25 Jan 2016 09:05:55 +0000</pubDate>
+      
+      <guid>http://www.cando-ot.com/post/what-we-do/</guid>
+      <description>&lt;p&gt;What we do blah&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>who are we</title>
+      <link>http://www.cando-ot.com/post/who-are-we/</link>
+      <pubDate>Mon, 25 Jan 2016 09:05:47 +0000</pubDate>
+      
+      <guid>http://www.cando-ot.com/post/who-are-we/</guid>
+      <description>&lt;p&gt;Whjo we are blah&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -28,15 +58,24 @@
       <pubDate>Sun, 24 Jan 2016 20:38:45 +0000</pubDate>
       
       <guid>http://www.cando-ot.com/team/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Clare&lt;/strong&gt; qualified as an occupational therapist in 2003, and spent the first 9 years of her career in the NHS in a hospital renowned for its neurology services. She has worked with both adults and children as a specialist occupational therapist, and in leadership roles in the public and private sector. Her experience includes:&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Clare&lt;/strong&gt; qualified as an occupational therapist in 2003, and spent the first 9 years of her career in an NHS hospital renowned for its neurology services. She has worked with both adults and children as a specialist occupational therapist, and in leadership roles in the public and private sector. Clare particularly enjoys working in neuro, where she feels best able to use her occupational therapy skills to maximise individuals&amp;rsquo; independence, and work in a client-centred way. Her experience includes:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;The rehabilitation and management of brain injuries in both adults and children&lt;/li&gt;
 &lt;li&gt;The rehabilitation and management of complex neurological conditions, for example, Guillain Barre syndrome, multiple sclerosis, motor neurone disease&lt;/li&gt;
-&lt;li&gt;assessment and treatment of sensory processing difficulties in children&lt;/li&gt;
+&lt;li&gt;Assessment and treatment of sensory processing difficulties in children&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Clare is halfway through her Masters degree in Advanced Occupational Therapy; she is currently on a study break following the birth of her third child but intends to return to University to complete her research in 2016-2017.&lt;/p&gt;
+&lt;p&gt;Clare is halfway through her Masters degree in Advanced Occupational Therapy. She is passionate about learning and is always looking for new ways to improve her practice.&lt;/p&gt;
+
+&lt;p&gt;Clare is:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Registered with the Health and Care Professions Council: OT36654&lt;/li&gt;
+&lt;li&gt;A full professional member of the BAOT&lt;/li&gt;
+&lt;li&gt;Member of BAOT special interest section for Children, Young People and Families&lt;/li&gt;
+&lt;li&gt;Member of BAOT special interest section for Private Practice&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Carolyn&lt;/strong&gt; graduated as an occupational therapist from the college of Ripon and York St John in 1988.  She quickly realised her passion for neurology and specialised, now having over 20 years experience with various neurological conditions including: brain injury (physical and cognitive dysfunction, behavioural management and low arousal), stroke and long term neurological conditions. She is also an experienced clinical team leader in both the public and private sectors, training and supporting staff and carers and has set up services.&lt;/p&gt;
 
@@ -47,10 +86,26 @@ Carolyn is passionate about her job; her aim is to ensure that clients reach the
 
 &lt;ul&gt;
 &lt;li&gt;A full professional member of the BAOT&lt;/li&gt;
-&lt;li&gt;Registered with the Health Professionals Council&lt;/li&gt;
-&lt;li&gt;Member of the OT special interest section for Neurological Practise&lt;/li&gt;
-&lt;li&gt;Member of the OT special interest for Private Practise&lt;/li&gt;
+&lt;li&gt;Registered with the Health and Care Professions Council&lt;/li&gt;
+&lt;li&gt;Member of the OT special interest section for Neurological Practice&lt;/li&gt;
+&lt;li&gt;Member of the OT special interest for Private Practice&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.cando-ot.com/contact/</link>
+      <pubDate>Sun, 24 Jan 2016 20:38:40 +0000</pubDate>
+      
+      <guid>http://www.cando-ot.com/contact/</guid>
+      <description>&lt;p&gt;If you feel you need to speak to someone urgently, please call and leave a message on either of the following numbers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Clare: 07479 480531&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Or, fill out the form below and we will try to get back to you within 24 hours.&lt;/p&gt;
 </description>
     </item>
     
@@ -61,6 +116,48 @@ Carolyn is passionate about her job; her aim is to ensure that clients reach the
       
       <guid>http://www.cando-ot.com/404/</guid>
       <description>&lt;p&gt;Oh, no, sorry.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What we can offer</title>
+      <link>http://www.cando-ot.com/what/</link>
+      <pubDate>Sun, 24 Jan 2016 20:38:40 +0000</pubDate>
+      
+      <guid>http://www.cando-ot.com/what/</guid>
+      <description>&lt;p&gt;We can provide an individualised, specialist occupational therapy programme for adults and children with all types of neurological impairment. We offer all or part of the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Assessment&lt;/li&gt;
+&lt;li&gt;Design and delivery of a tailor made rehabilitation programme&lt;/li&gt;
+&lt;li&gt;Equipment and wheelchair assessment and advice on purchase&lt;/li&gt;
+&lt;li&gt;24 hour postural management&lt;/li&gt;
+&lt;li&gt;Assessment and treatment for individuals in low arousal - SMART assessment&lt;/li&gt;
+&lt;li&gt;Splinting and casting of upper and lower limbs&lt;/li&gt;
+&lt;li&gt;Sensory processing assessment and advice&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our philosophy is that the individual is at the centre of the occupational therapy process, and our goals and interventions will aim to optimise and individual’s independence in the areas that are important to them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Where we work</title>
+      <link>http://www.cando-ot.com/where/</link>
+      <pubDate>Sun, 24 Jan 2016 20:38:40 +0000</pubDate>
+      
+      <guid>http://www.cando-ot.com/where/</guid>
+      <description>&lt;p&gt;We carry out our sessions with people in the areas in which they function.
+This could include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;home&lt;/li&gt;
+&lt;li&gt;work place&lt;/li&gt;
+&lt;li&gt;school&lt;/li&gt;
+&lt;li&gt;community settings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are based in Cheshire and can travel reasonable distances within the North West and northern Wales. If you are outside of these areas and still feel you could benefit from our services, please contact us to discuss your requirements.&lt;/p&gt;
 </description>
     </item>
     
