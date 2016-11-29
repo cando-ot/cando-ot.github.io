@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright CanDo Occupational Therapy - 2016</copyright>
-    <lastBuildDate>Sun, 24 Jan 2016 20:38:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2016 10:38:03 -0700</lastBuildDate>
     <atom:link href="http://www.cando-ot.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Resources</title>
+      <link>http://www.cando-ot.com/resources/</link>
+      <pubDate>Tue, 29 Nov 2016 10:38:03 -0700</pubDate>
+      
+      <guid>http://www.cando-ot.com/resources/</guid>
+      <description>&lt;p&gt;Here are some resources.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
