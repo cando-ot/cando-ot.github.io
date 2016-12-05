@@ -7,8 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright CanDo Occupational Therapy - 2016</copyright>
-    <lastBuildDate>Sun, 24 Jan 2016 20:38:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2016 20:22:46 +0000</lastBuildDate>
     <atom:link href="http://www.cando-ot.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to CanDo</title>
+      <link>http://www.cando-ot.com/post/resource/</link>
+      <pubDate>Mon, 05 Dec 2016 20:22:46 +0000</pubDate>
+      
+      <guid>http://www.cando-ot.com/post/resource/</guid>
+      <description>&lt;p&gt;Hi, and welcome to CanDo Occupational Therapy’s blog! Carolyn and I are aiming to make this website somewhere that people can come for free advice and ideas on how to help their loved one, as well as a place where you can find out about what services CanDo can offer.&lt;/p&gt;
+
+&lt;p&gt;So to start the blog off, I thought I’d post a little activity that parents can do with their children that will help to develop their fine motor function in readiness for writing and other important school skills.&lt;/p&gt;
+
+&lt;p&gt;All you need is a colander and some pipe cleaners. I cut them in half so that they don’t bend when they are placed, and they are a little easier to pick up.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/colander.png&#34; alt=&#34;Colander&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This activity is a great precursor to threading, which can be a difficult skill for little ones to master, especially if their motor skills are already delayed. Picking up the pipe cleaners helps to develop a pincer grasp, and strengthens the tiny muscles in the hand that are used for writing later on. It’s also good for concentration, learning colours, and hand eye coordination. You can even build counting in to it for older children. You can make the activity more difficult by making the pipe cleaners even shorter, and posting them through the holes of the colander.&lt;/p&gt;
+
+&lt;p&gt;A short and sweet activity for the first post, but expect more from CanDo very soon!&lt;/p&gt;
+
+&lt;p&gt;Have fun.&lt;/p&gt;
+
+&lt;p&gt;Clare&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://www.cando-ot.com/resources/</link>
+      <pubDate>Tue, 29 Nov 2016 10:38:03 -0700</pubDate>
+      
+      <guid>http://www.cando-ot.com/resources/</guid>
+      <description>&lt;p&gt;Here are some resources. as sa dsa d as as d sa d s&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -130,25 +164,6 @@ This could include:&lt;/p&gt;
 &lt;p&gt;We are based in Cheshire and can travel reasonable distances within the North West and northern Wales. If you are outside of these areas and still feel you could benefit from our services, please contact us to discuss your requirements.&lt;/p&gt;
 
 &lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d304230.3285792914!2d-2.732935799609381!3d53.43629417154903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1455975726175&#34; width=&#34;600&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.cando-ot.com/blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cando-ot.com/blog/</guid>
-      <description>&lt;p&gt;date = &amp;ldquo;2016-01-24T20:38:40Z&amp;rdquo;
-draft = true
-title = &amp;ldquo;blog&amp;rdquo;
-menu = &amp;ldquo;main&amp;rdquo;
-description = &amp;ldquo;Hello Blog&amp;rdquo;
-type = &amp;ldquo;blog&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;+++&lt;/p&gt;
-
-&lt;p&gt;Blah blah blah blog &amp;ndash;&amp;gt;&lt;/p&gt;
 </description>
     </item>
     
